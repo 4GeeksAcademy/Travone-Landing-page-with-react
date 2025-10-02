@@ -4,12 +4,12 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        {/* Brand / Logo */}
+        
         <a className="navbar-brand" href="#">
           Start Bootstrap
         </a>
 
-        {/* Hamburger button (visible on small screens) */}
+        
         <button
           className="navbar-toggler"
           type="button"
@@ -22,7 +22,7 @@ function Navbar() {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        {/* Collapsible content */}
+        
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
