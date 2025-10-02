@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar.jsx";
 import Jumbotron from "./components/Jumbotron";
 import CardGrid from "./components/CardGrid";
 
-// image provided in your prompt (used as placeholder for cards)
+
 const placeholder = "https://placehold.co/500x325/000000/FFFFFF/png?";
 
 const cardsData = [
